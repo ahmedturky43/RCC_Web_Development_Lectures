@@ -1,0 +1,10 @@
+﻿body {
+    font-family: "Outfit", sans-serif;
+    color: rgb(120, 87, 78);
+}
+
+img {
+    width: 100%;/*Absl Unit*/
+    height: 291px; /*Rela Unit*/
+    object-fit: cover;
+}
